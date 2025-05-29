@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<BankData>
+  <Client>
+    <ID>1</ID>
+    <Name>Петров Петр Петрович</Name>
+    <Accounts>
+      <Account>
+        <Number>0001</Number>
+        <Balance>10000.00</Balance>
+      </Account>
+    </Accounts>
+  </Client>
+  <Client>
+    <ID>2</ID>
+    <Name>Скорняков Артём Сергеевич</Name>
+    <Accounts>
+      <Account>
+        <Number>0002</Number>
+        <Balance>20000.00</Balance>
+      </Account>
+      <Account>
+        <Number>0003</Number>
+        <Balance>30000.00</Balance>
+      </Account>
+    </Accounts>
+  </Client>
+  <Client>
+    <ID>0</ID>
+    <Name>Иванов Иван Иванович</Name>
+    <Accounts/>
+  </Client>
+</BankData>
